@@ -6,7 +6,19 @@
         xmlns:local="clr-namespace:mathiasznapok"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
+    <Grid Margin="0,0,0,-6">
+        <Grid.Background>
+            <ImageBrush ImageSource="/high_school.jpg"/>
+        </Grid.Background>
+        <Button Content="Start" Margin="235,359,415,20" FontSize="36" FontFamily="Rosewood Std Regular">
+            <Button.Background>
+                <ImageBrush/>
+            </Button.Background>
+        </Button>
+        <Button Content="Exit" Margin="432,359,203,20" FontFamily="Rosewood Std Regular" FontSize="36" Cursor="ScrollNW">
+            <Button.Background>
+                <ImageBrush/>
+            </Button.Background>
+        </Button>
     </Grid>
 </Window>

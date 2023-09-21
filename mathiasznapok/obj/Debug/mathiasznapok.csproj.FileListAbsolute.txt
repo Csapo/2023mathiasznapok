@@ -1,0 +1,5 @@
+C:\Users\rajkai.david1\Source\Repos\Csapo\2023mathiasznapok\mathiasznapok\obj\Debug\mathiasznapok.csproj.AssemblyReference.cache
+C:\Users\rajkai.david1\Source\Repos\Csapo\2023mathiasznapok\mathiasznapok\obj\Debug\MainWindow.g.cs
+C:\Users\rajkai.david1\Source\Repos\Csapo\2023mathiasznapok\mathiasznapok\obj\Debug\App.g.cs
+C:\Users\rajkai.david1\Source\Repos\Csapo\2023mathiasznapok\mathiasznapok\obj\Debug\mathiasznapok_MarkupCompile.cache
+C:\Users\rajkai.david1\Source\Repos\Csapo\2023mathiasznapok\mathiasznapok\obj\Debug\mathiasznapok_MarkupCompile.lref
