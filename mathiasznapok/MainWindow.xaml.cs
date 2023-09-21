@@ -21,21 +21,28 @@ namespace mathiasznapok
     /// </summary>
     public partial class MainWindow : Window
     {
+
+        List<feladatok> list = new List<feladatok>();
+
         public MainWindow()
         {
             InitializeComponent();
 
-            try
+            string[] temp = File.ReadAllLines("adatok.txt");
+            for (int i = 0; i < temp.Length; i++)
             {
-                StreamReader sr = new StreamReader("");  
-                
-                while (
+                try
+                {
+                    list.Add(new feladatok(temp[i],';'));
+                }
+                catch(Exception baj) 
+                {
+                    MessageBox.Show(baj.Message);
+                }
             }
-            catch (Exception)
-            {
 
-                throw;
-            }
+
+
         }
     }
 }

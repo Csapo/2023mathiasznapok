@@ -1,0 +1,16 @@
+Hogyan nevezzük a kör kerületét?;kerület;ármérős;radius;matek 
+Mi a Pi, racionális vagy irracionális szám?;irracionális;racionális;semelyik;matek 
+Ki a matematika atyja?;Archimedes;Anaxarkhosz; Autolükosz;matek  
+Ki fedezte fel a nullát (0)?;Aryabhatta;Archimedes;Arkhütasz;matek
+Mi történt 1335-ben?;Visegrádi királytalálkozó;Árpád-ház kihalása;Posada-i csata;tortenelem
+1222-ben mi volt az ország fővárosa?; Székesfehérvár;Budapest;Pozsony;tortenelem  
+Mikor írták alá a trianoni békediktátumot?;1920. június 4-én;1919.június 4-én;1918. június 18-án;tortenelem
+Melyik három állam írta alá 1940. szeptember 27-én a háromhatalmi egyezményt?;Németország, Olaszország, Japán;Japán, Szovjetunió, Németország;Németország, Olaszország, Szovjetunió;tortenelem
+Melyik művészeti korszakot váltja a Barokk?;reneszénsz;klasszicizmus;góthika;magyar
+Barokk kultúra időszaka?;16-17. század;18-19.század;9-10.század;magyar
+Melyik jellemző az irodalmi Barokkra?;virtuozitás;egyszerűség;letisztuliság;magyar
+Melyek nem jellemző az irodalmi Barokkra?;tárgyilagosság;körmondatok;költői képek tobzódása;magyar
+Lengyelország angolul?;Poland;Russia;Norway;angol
+Mi a templom angol megfelelője?;church;temple;house;angol
+Hogy írják németűl az iskolát?;schule;schuh;schuhlöffel;nemet
+Hogy írják a EICHHÖRNCHEN szót magyarul?;mókus;fa;makk;nemet

@@ -10,7 +10,7 @@
         <Grid.Background>
             <ImageBrush ImageSource="/high_school.jpg"/>
         </Grid.Background>
-        <Button Content="Start" Margin="235,359,415,20" FontSize="36" FontFamily="Rosewood Std Regular">
+        <Button Margin="235,359,415,20" FontSize="36" FontFamily="Rosewood Std Regular" Content="Start">
             <Button.Background>
                 <ImageBrush/>
             </Button.Background>
