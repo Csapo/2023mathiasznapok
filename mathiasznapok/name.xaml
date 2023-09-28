@@ -16,6 +16,7 @@
                 <ImageBrush/>
             </TextBox.Background>
         </TextBox>
+        <Button x:Name="next" Content="Tovább" HorizontalAlignment="Center" Margin="0,371,0,0" VerticalAlignment="Top" Width="204" Height="53" Background="{x:Null}" OpacityMask="Black" FontFamily="Rosewood Std Regular" FontSize="45" Click="next_Click"/>
 
     </Grid>
 </Window>

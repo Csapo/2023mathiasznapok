@@ -23,5 +23,12 @@ namespace mathiasznapok
         {
             InitializeComponent();
         }
+
+        private void next_Click(object sender, RoutedEventArgs e)
+        {
+            game g = new game();
+            g.Show();
+            this.Close();
+        }
     }
 }

@@ -44,5 +44,13 @@ namespace mathiasznapok
 
 
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            
+            name n = new name();
+            n.Show();
+            this.Close();
+        }
     }
 }
